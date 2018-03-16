@@ -1,4 +1,4 @@
-# Paginator.js
+# Paginator lib
 
 JavaScript lib for calculate sliding pagination
 

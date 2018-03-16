@@ -1,6 +1,6 @@
 {
-  "name": "paginator",
-  "version": "1.0.0",
+  "name": "webinv-paginator",
+  "version": "1.0.1",
   "description": "Small lib for calculate sliding pagination",
   "main": "src/paginator.js",
   "keywords": [

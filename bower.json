@@ -1,5 +1,5 @@
 {
-  "name": "paginator",
+  "name": "webinv-paginator",
   "description": "Small lib for calculate sliding pagination",
   "main": "src/paginator.js",
   "authors": [
