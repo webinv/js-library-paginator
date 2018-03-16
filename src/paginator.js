@@ -26,8 +26,6 @@
             }
         }
 
-        console.log(data);
-
         var results = {
             current: data.currentPageNumber,
             numItemsPerPage: data.numItemsPerPage,
@@ -49,8 +47,6 @@
         }
 
         var delta = Math.ceil(data.range/2);
-
-        console.log('delta', delta);
 
         if (results.current - delta > results.pageCount - data.range) {
             results.firstPageInRange = results.pageCount - data.range + 1;
