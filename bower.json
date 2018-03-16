@@ -1,0 +1,24 @@
+{
+  "name": "paginator",
+  "description": "Small lib for calculate sliding pagination",
+  "main": "src/paginator.js",
+  "authors": [
+    "Krzysztof Kardasz <krzysztof@kardasz.eu>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "paginate",
+    "pagination",
+    "paginator"
+  ],
+  "homepage": "https://github.com/webinv/js-library-paginator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json",
+    "gulpfile.js"
+  ]
+}

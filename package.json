@@ -1,0 +1,24 @@
+{
+  "name": "paginator",
+  "version": "1.0.0",
+  "description": "Small lib for calculate sliding pagination",
+  "main": "src/paginator.js",
+  "keywords": [
+    "paginator",
+    "paginate",
+    "pagination"
+  ],
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Krzysztof Kardasz <krzysztof@kardasz.eu>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sequence": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0"
+  }
+}
